@@ -8,3 +8,6 @@ Um dos destaques do projeto foi a criação de um gráfico de pizza, que mostrou
 Se você ficou curioso e deseja saber mais sobre o projeto, pode conferir o código disponível em meu GitHub. E caso você tenha alguma sugestão ou crítica construtiva, sinta-se à vontade para compartilhar comigo! 👍
 
 Essa experiência me mostrou mais uma vez o quão fascinante é o mundo da programação e o quanto podemos criar coisas incríveis com ela. Agradeço a oportunidade de ter trabalhado nesse projeto e espero poder continuar desenvolvendo minhas habilidades como programador(a) em futuros projetos!"
+
+
+![image](https://user-images.githubusercontent.com/109118257/231900659-d7ce271a-0b46-4268-85ef-eb36ca53fff3.png)
