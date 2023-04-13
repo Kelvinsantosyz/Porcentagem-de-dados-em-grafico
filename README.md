@@ -10,4 +10,5 @@ Se você ficou curioso e deseja saber mais sobre o projeto, pode conferir o cód
 Essa experiência me mostrou mais uma vez o quão fascinante é o mundo da programação e o quanto podemos criar coisas incríveis com ela. Agradeço a oportunidade de ter trabalhado nesse projeto e espero poder continuar desenvolvendo minhas habilidades como programador(a) em futuros projetos!
 
 
-![image](https://user-images.githubusercontent.com/109118257/231900659-d7ce271a-0b46-4268-85ef-eb36ca53fff3.png)
+
+![imagem_2023-04-13_200950117](https://user-images.githubusercontent.com/109118257/231902422-856f0976-99b7-4e79-9c32-b79411d99f34.jpg)
